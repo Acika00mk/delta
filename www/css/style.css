@@ -22,6 +22,10 @@
     height: 85px;
 }
 
+.wrapped{
+    margin: 0;
+    padding: 15px;
+}
 .logo {
     width: 100px;
     padding: 0;
